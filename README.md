@@ -77,3 +77,5 @@ print("Hello world")
 # head
 
 # testing 1
+
+# 2주차 시작
